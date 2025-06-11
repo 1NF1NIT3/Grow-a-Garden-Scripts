@@ -1,5 +1,5 @@
 -- EggDetector.lua
-local targetEggName = "Ex. Mythical Egg" -- Change to exact egg name you're targeting
+local targetEggName = "Legendary Egg" -- Change to exact egg name you're targeting
 
 local function checkEgg()
     for _, obj in pairs(workspace:GetChildren()) do
